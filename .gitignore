@@ -1,0 +1,7 @@
+*.exe
+*.lib
+*.dll
+*.pdb
+*.ini
+dub.selections.json
+.dub/
