@@ -2,7 +2,7 @@
 	"name": "i2d_imgui_test",
 	"dependencies": {
 		"i2d-imgui": "~>0.8.1",
-        "bindbc-sdl": "~>2.2.0"
+        "bindbc-sdl": "~>1.1.3"
 	},
     "dflags-dmd": ["-mscrtlib=msvcrt"],
     "versions": ["GL_33", "USE_SDL2", "USE_GL3"],
